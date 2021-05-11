@@ -45,7 +45,7 @@
     "gatsby-source-filesystem": "^2.3.30",
     "gatsby-transformer-remark": "^2.8.35",
     "jquery": "^3.5.1",
-    "lodash": "^4.17.20",
+    "lodash": "^4.17.21",
     "monaco-editor": "^0.20.0",
     "nanoid": "^1.2.2",
     "prismjs": "^1.21.0",
